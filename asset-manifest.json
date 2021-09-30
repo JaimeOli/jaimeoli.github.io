@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JaimeOli/jaimeoli.github.io.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/JaimeOli/jaimeoli.github.io.git/static/js/main.35bb7297.chunk.js",
+    "main.js.map": "/JaimeOli/jaimeoli.github.io.git/static/js/main.35bb7297.chunk.js.map",
+    "runtime-main.js": "/JaimeOli/jaimeoli.github.io.git/static/js/runtime-main.2073c8b4.js",
+    "runtime-main.js.map": "/JaimeOli/jaimeoli.github.io.git/static/js/runtime-main.2073c8b4.js.map",
+    "static/js/2.44ed7acd.chunk.js": "/JaimeOli/jaimeoli.github.io.git/static/js/2.44ed7acd.chunk.js",
+    "static/js/2.44ed7acd.chunk.js.map": "/JaimeOli/jaimeoli.github.io.git/static/js/2.44ed7acd.chunk.js.map",
+    "static/js/3.0b770aac.chunk.js": "/JaimeOli/jaimeoli.github.io.git/static/js/3.0b770aac.chunk.js",
+    "static/js/3.0b770aac.chunk.js.map": "/JaimeOli/jaimeoli.github.io.git/static/js/3.0b770aac.chunk.js.map",
+    "index.html": "/JaimeOli/jaimeoli.github.io.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/JaimeOli/jaimeoli.github.io.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.44ed7acd.chunk.js.LICENSE.txt": "/JaimeOli/jaimeoli.github.io.git/static/js/2.44ed7acd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2073c8b4.js",
+    "static/js/2.44ed7acd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.35bb7297.chunk.js"
+  ]
+}
